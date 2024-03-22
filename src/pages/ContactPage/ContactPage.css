@@ -1,0 +1,15 @@
+.ContactPage {
+    position: absolute;
+    left: 60%;
+    top: 50%;
+    color: white;
+}
+
+.ContactPage .contact-list {
+    list-style: none;
+}
+
+.ContactPage a {
+    color: white;
+    text-decoration: none;
+}

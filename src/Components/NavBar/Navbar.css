@@ -1,0 +1,13 @@
+.Navbar h1 {
+    font-size: 4em;
+}
+
+.Navbar .nav-links {
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+}
+
+.Navbar .nav-links:hover {
+    color: grey;
+}
