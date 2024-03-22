@@ -1,0 +1,20 @@
+.AboutmePage {
+    position: absolute;
+    left: 70%;
+    top: 40%;
+    width: 20%;
+}
+
+.AboutmePage p {
+    font-size: 1.1em;
+    font-weight: 700;
+    text-align: start;
+}
+
+@media only screen and (max-width: 640px) {
+    .AboutmePage {
+        top: 50%;
+        left: 50%;
+        width: 40%;
+    }
+}

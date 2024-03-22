@@ -24,7 +24,7 @@
     min-height: 90vh;
     padding: 0px 40px;
     position: relative;
-    /* Para que la posición absoluta funcione correctamente */
+    overflow: scroll;
 }
 
 img {

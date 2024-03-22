@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
             <div className='nav-links'>
                 <Icon.ThreeDotsVertical />
-                <Link to={'/'} className='nav-links'>About me</Link>
+                <Link to={'/about'} className='nav-links'>About me</Link>
             </div>
         </Nav>
     )
