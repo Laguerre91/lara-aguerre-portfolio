@@ -15,7 +15,7 @@ const Navbar = () => {
 
             <div className='nav-links'>
                 <Icon.ThreeDotsVertical />
-                <Link to={'/'} className='nav-links'>Projects</Link>
+                <Link to={'/projects'} className='nav-links'>Projects</Link>
             </div>
             <div className='nav-links'>
                 <Icon.ThreeDotsVertical />

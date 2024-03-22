@@ -1,0 +1,31 @@
+.ProjectsPage {
+    position: absolute;
+    left: 55%;
+    top: 10%;
+    max-height: 75vh;
+    overflow: scroll;
+}
+
+.ProjectsPage a {
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+}
+
+.ProjectsPage .project-article {
+    width: 80%;
+    padding: 10px;
+    border: 1px solid white;
+}
+
+@media only screen and (max-width: 640px) {
+
+    .ProjectsPage {
+        top: 70%;
+        left: 10%;
+    }
+
+    .ProjectsPage .project-article {
+        width: 90%;
+    }
+}
