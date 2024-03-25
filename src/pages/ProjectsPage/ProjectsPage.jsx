@@ -13,7 +13,8 @@ const ProjectsPage = () => {
                         <Icon.BoxArrowUpRight />
                     </div>
                 </a>
-                <p>Innovative mental wellness initiative with emotional tracking, psychologist access, and community platform in a 2-week sprint. Collaborative work with developers and UX/UI designers.</p>
+                <p>
+                    Given the issue of access to mental health care in Spain we have created an innovative mental wellness initiative with emotional tracking, psychologist access, and community platform in a 2-week sprint. Collaborative work with developers and UX/UI designers.</p>
                 <p>- Stack: React | Bootstrap | Express | NodeJs | MongoDB</p>
             </article>
 
