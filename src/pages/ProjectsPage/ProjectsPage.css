@@ -18,6 +18,10 @@
     border: 1px solid white;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 @media only screen and (max-width: 640px) {
 
     .ProjectsPage {
